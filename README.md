@@ -32,7 +32,7 @@ To implement Zero Trust Security, organizations typically use a combination of s
 
 ![Implementation Image](https://www.dincloud.com/wp-content/uploads/2019/10/implementation-of-zero-trust-security-model-by-dinCloud.jpg)
 
-##Youtube Video
-[Video](yt)
+## Youtube Video
+[Video](https://youtu.be/wBXWeH9iujk)
 
 
